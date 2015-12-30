@@ -6,4 +6,3 @@
 
 ##Organization
 Organization will reflect the way the problems are organized in the TopCoder Arena Java Apllet under "Practice Rooms"
-
