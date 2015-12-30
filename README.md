@@ -26,13 +26,10 @@ then I truly hope this repository will help you.
 ### Organization
 All solutions here are first sorted by which site their respective problem is from, then lastly by problem name, language and solution (This allows for their to be multiple solutions per language per problem).
 ### Folder Structure
-As far as folder structure works, they will follow the organization stated above, with a folder structure in between site name and problem name that reflects the organization of the site their problems are from.
-
-i.e. TopCoder -> SRM669 -> SubdividedSlimes -> Java -> Solution1 -> SubdividedSlimes.class
+As far as folder structure works, they will follow the organization stated above, with a folder structure in between site name and problem name that reflects the organization of the site their problems are from. Each site folder has a README.md that will have the exact structure for that site.
 
 
 ## Disclaimer
 I do not claim ownership of the problems discussed here (they belong to their respective sites), nor will I allow solutions to problems in _on going competitions_. 
 
 **These solutions may not be the best solutions!** Odds are, there are better solutions out there. If you see a way to improve the solution go ahead and either let me know, or do it yourself. Suggestions and improvements are always welcome!
-
