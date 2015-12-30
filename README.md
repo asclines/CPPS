@@ -34,3 +34,5 @@ i.e. TopCoder -> SRM669 -> SubdividedSlimes -> Java -> Solution1 -> SubdividedSl
 ## Disclaimer
 I do not claim ownership of the problems discussed here (they belong to their respective sites), nor will I allow solutions to problems in _on going competitions_. 
 
+**These solutions may not be the best solutions!** Odds are, there are better solutions out there. If you see a way to improve the solution go ahead and either let me know, or do it yourself. Suggestions and improvements are always welcome!
+
