@@ -7,7 +7,7 @@ by Alexander Clines
 To display the solutions for programming problems on popular programming competition sites in a more readable form.
 
 ### What do I mean by readable form?
-So if you have ever looked at the submitted solutions for problems on populate sites like TopCoder and CodeForces you may have noticed that the solutions can be very difficult to read. Now this is understandable as these sites have a stage in their competitions where other users can challenge their solutions's correctness, therefore the harder the solution is to read, the less likely it will be challenged. Or so it is believed. However this makes it difficult for programmers later down the road who are practicing on these problems, get stuck/lost and need to just see a solution for the purpose of _learning_. Thats where this repo comes in.
+So if you have ever looked at the submitted solutions for problems on popular sites like TopCoder and CodeForces you may have noticed that the solutions can be very difficult to read. Now this is understandable as these sites have a stage in their competitions where other users can challenge their solutions's correctness, therefore the harder the solution is to read, the less likely it will be challenged. Or so it is believed. However this makes it difficult for programmers later down the road who are practicing on these problems, get stuck/lost and need to just see a solution for the purpose of _learning_. Thats where this repo comes in.
 
 **The purpose of this repository is to provide clean, readable solutions to these problems so that others may learn and become better programmers.** 
 
