@@ -1,3 +1,11 @@
+/**
+ * Author: Alexander Clines
+ * Problem URL: https://community.topcoder.com/stat?c=problem_statement&pm=14368&rd=16767
+ * Challenge: SRM 695
+ * Submitted and passed: YES
+ * Tags:
+ * Notes:
+ */
 public class BearNSWE {
 
     public double totalDistance(int[] a, String dir) {
