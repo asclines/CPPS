@@ -23,7 +23,7 @@ This problem comes from [HackerRank](https://www.hackerrank.com/challenges/new-y
 The only data structure used in this solution is an array for storing the list.
 For this algorithm, we can assume that the list is possible as we are checking for that while taking in the input.
 If we iterate through the list backwards, swapping elements as we go we will be able to make two assumptions that are needed to solve the problem.
-For element with value *x* at position *i*, *1 <= i <=N:  
+For element with value *x* at position *i*, *1 <= i <=N*:  
   - Assumption 1: Since we are swapping and therefore sorting as we iterate, we can assume that for any element at the current position, all elements with positions greater than the current position are where they are supposed to be and have values greater than the value of element at the current position.
   - Assumption 2: From the breakdown, we know that *x* has a lower bound of *i+1* and from the previous assumption we know that *x* has a greater bound of *i* inclusively. Therefore, if *i* does not equal *x*, then either *i-1* or *i-2* equals *x*
 
@@ -162,6 +162,7 @@ If person B was the one who bribed person A, all we need to do is finish the swa
 Finally, we just need to output `count`, which now holds the minimum number of swaps needed.
 ```c++
   std::cout << std::to_string(count) << std::endl;
+```
 
 ## Complexity & Performance
 Within in the source code are two for loops (Ignoring the one for test cases).
