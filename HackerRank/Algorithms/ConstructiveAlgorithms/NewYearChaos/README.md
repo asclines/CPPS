@@ -25,9 +25,9 @@ For this algorithm, we can assume that the list is possible as we are checking f
 If we iterate through the list backwards, swapping elements as we go we will be able to make two assumptions that are needed to solve the problem.
 For element with value *x* at position *i*, *1 <= i <=N*:  
   - Assumption 1: Since we are swapping and therefore sorting as we iterate, we can assume that for any element at the current position, all elements with positions greater than the current position are where they are supposed to be and have values greater than the value of element at the current position.
-  - Assumption 2: From the breakdown, we know that *x* has a lower bound of *i + 1* and from the previous assumption we know that *x* has a greater bound of *i* inclusively. Therefore, if *i* does not equal *x*, then either *i - 1* or *i - 2* equals *x*
+  - Assumption 2: From the breakdown, we know that *x* has a lower bound of *i+1* and from the previous assumption we know that *x* has a greater bound of *i* inclusively. Therefore, if *i* does not equal *x*, then either *i*-1 or *i*-2 equals *x*
 
-If (while using these assumptions, iterating through the list backwards and swapping elements as we go) we increment a counter by 1 every time *x* is at *i - 1* and by 2 every time *x* is at *i - 2*, the counter will equal the minimum number of swaps needed by the end of the iteration.  
+If (while using these assumptions, iterating through the list backwards and swapping elements as we go) we increment a counter by 1 every time *x* is at *i*-1 and by 2 every time *x* is at *i*-2, the counter will equal the minimum number of swaps needed by the end of the iteration.  
 
 ## Walk-Through  
 Our input variables with constraints
